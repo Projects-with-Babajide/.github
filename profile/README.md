@@ -32,10 +32,10 @@ We build tools. We share them. That's the deal.
 
 | Tool | What it does |
 |------|-------------|
-| [**agent-synapse**](https://github.com/Projects-with-Babajide/agent-synapse) | Cross-project messaging between Claude Code sessions via named agents |
-| [**link-pulse**](https://github.com/Projects-with-Babajide/link-pulse) | LinkedIn CLI — manage your presence from the terminal, powered by Claude |
-| [**claude-code-monitoring**](https://github.com/Projects-with-Babajide/claude-code-monitoring) | OpenTelemetry pipeline for tracking Claude Code token usage, cost, and productivity |
-| [**the-skill-vault**](https://github.com/Projects-with-Babajide/the-skill-vault) | Reusable Claude Code skills for engineering, app exploration, and automation |
+| [**agent-synapse**](https://github.com/DisposableByDefault/agent-synapse) | Cross-project messaging between Claude Code sessions via named agents |
+| [**link-pulse**](https://github.com/DisposableByDefault/link-pulse) | LinkedIn CLI — manage your presence from the terminal, powered by Claude |
+| [**claude-code-monitoring**](https://github.com/DisposableByDefault/claude-code-monitoring) | OpenTelemetry pipeline for tracking Claude Code token usage, cost, and productivity |
+| [**the-skill-vault**](https://github.com/DisposableByDefault/the-skill-vault) | Reusable Claude Code skills for engineering, app exploration, and automation |
 
 ---
 
