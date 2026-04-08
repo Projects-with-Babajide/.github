@@ -43,4 +43,4 @@ We build tools. We share them. That's the deal.
 
 Have an AI mandate but no structure? We've been there. Book 30 minutes and let's figure out if a sprint makes sense for your team.
 
-[![Book a Call](https://img.shields.io/badge/Book_a_Call-Calendly-red?style=for-the-badge)](https://calendly.com/jideokus-pm/disposable-by-default-intro-call)  [![Website](https://img.shields.io/badge/disposablebydefault.ai-Visit-black?style=for-the-badge)](https://disposablebydefault.ai)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jideokusanya/)
+[![Book a Call](https://img.shields.io/badge/Book_a_Call-Calendly-red?style=for-the-badge)](https://calendly.com/jideokus-pm/disposable-by-default-intro-call)  [![Website](https://img.shields.io/badge/disposablebydefault.ai-Visit-black?style=for-the-badge)](https://disposablebydefault.ai)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/disposable-by-default)
