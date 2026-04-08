@@ -1,23 +1,34 @@
-## 👋 Hey, I'm Babajide
+# Disposable by Default
 
-I build AI-powered tools, automation workflows, and real-world products — mostly shipping fast and learning in public. 🚀
+**AI consulting for teams that want to ship, not experiment.**
 
-### 🔍 What you'll find here
+We help enterprise and startup engineering teams adopt AI with purpose — through hands-on training, custom AI solutions, and rapid tool development. Founded by [Babajide Okusanya](https://www.linkedin.com/in/jideokusanya/), a product leader and software engineer with 15+ years of experience who has trained **2,000+ developers** on AI-assisted workflows.
 
-- 🤖 **AI agents & skills** — reusable Claude Code skills for engineering workflows, app exploration, LinkedIn automation, and more
-- 🏗️ **Full-stack products** — from sales intelligence tools to community platforms
-- 🧰 **Open-source utilities** — CLI tools, integrations, and templates anyone can use
+### What we do
 
-### ⭐ Featured
+🎯 **Enterprise AI Training** — Hands-on workshops for engineering teams (200-500+ engineers) on AI adoption, workflow design, and tool integration
 
-| Project | What it is |
-|---------|-----------|
-| [the-skill-vault](https://github.com/Projects-with-Babajide/the-skill-vault) | 🧠 Claude Code skills for shipping code, exploring apps, and automating workflows |
-| [link-pulse](https://github.com/Projects-with-Babajide/link-pulse) | 🔗 CLI tool for LinkedIn automation |
-| [template-sense](https://github.com/Projects-with-Babajide/template-sense) | 📄 Smart template detection and matching |
+🛠️ **Custom AI Solutions** — Purpose-built tools and automations delivered fast. We've solved 2-year engineering problems in 2 weeks.
 
-### 💬 Get in touch
+📐 **Spec-Driven Development** — Not vibe coding. Structured, reproducible AI workflows that teams can maintain and scale.
 
-If something here is useful or you want to collaborate, open an issue or reach out. Always happy to chat about AI tooling, developer workflows, and building in public.
+### Our philosophy
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jideokusanya/) — let's connect!
+Build fast. Build with purpose. Build things meant to be replaced when something better comes along. The best AI tools are **disposable by default** — small, focused, and built to solve a specific problem right now.
+
+### Open Source Tools
+
+We build and share tools for the AI developer community:
+
+| Tool | What it does |
+|------|-------------|
+| [**agent-synapse**](https://github.com/Projects-with-Babajide/agent-synapse) | Cross-project messaging between Claude Code sessions via named agents |
+| [**link-pulse**](https://github.com/Projects-with-Babajide/link-pulse) | Personal LinkedIn CLI — interact with LinkedIn from the terminal, driven by Claude |
+| [**claude-code-monitoring**](https://github.com/Projects-with-Babajide/claude-code-monitoring) | Local OpenTelemetry pipeline for tracking Claude Code token usage, cost, and productivity metrics |
+| [**the-skill-vault**](https://github.com/Projects-with-Babajide/the-skill-vault) | Reusable Claude Code skills for shipping code, exploring apps, and automating workflows |
+
+### Work with us
+
+Visit [**disposablebydefault.ai**](https://disposablebydefault.ai) to learn more or schedule a call.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jideokusanya/)  [![Website](https://img.shields.io/badge/disposablebydefault.ai-Visit-black?style=flat)](https://disposablebydefault.ai)
